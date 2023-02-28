@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Otro mas Chanchito Feliz - MASTER
+=======
+Mas Chanchitos Felices - ramab
+Diferente mas Chanchito Feliz - ramab
+Pedro - ramab
+>>>>>>> ramab
